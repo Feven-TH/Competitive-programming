@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0525-contiguous-array) |
+| [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Dynamic Programming
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0525-contiguous-array) |
+| [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 ## Design
 |  |
@@ -55,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
+## Sorting
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
+## Simulation
+|  |
+| ------- |
+| [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
 <!---LeetCode Topics End-->
