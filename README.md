@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0328-odd-even-linked-list) |
+| [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0525-contiguous-array) |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Dynamic Programming
 |  |
@@ -53,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
