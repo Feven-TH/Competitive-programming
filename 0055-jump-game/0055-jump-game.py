@@ -8,14 +8,4 @@ class Solution:
             curr = i + nums[i]
             reach = max(reach, curr)
         return True
-        # i = 0
-        # diff = float('inf')
-        # while i < n:
-        #     val = nums[i]
-        #     j = i + 1
-        #     while j < val:
-        #         diff = min(n - (j + nums[j])) 
-        #     i = j
-        #         if diff == 0:
-        #             return True
-
+        
