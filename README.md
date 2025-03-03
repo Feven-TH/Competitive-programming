@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Feven-TH/Competitive-programming/tree/master/0055-jump-game) |
 | [0523-continuous-subarray-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0525-contiguous-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Feven-TH/Competitive-programming/tree/master/0055-jump-game) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
@@ -84,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Feven-TH/Competitive-programming/tree/master/0055-jump-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
