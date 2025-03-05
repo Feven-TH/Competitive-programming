@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Feven-TH/Competitive-programming/tree/master/0071-simplify-path) |
 | [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Array
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Feven-TH/Competitive-programming/tree/master/0071-simplify-path) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3055-maximum-odd-binary-number](https://github.com/Feven-TH/Competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 ## Counting
