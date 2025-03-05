@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Feven-TH/Competitive-programming/tree/master/0071-simplify-path) |
 | [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
+| [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Feven-TH/Competitive-programming/tree/master/0071-simplify-path) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Feven-TH/Competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 ## Counting
 |  |
