@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0328-odd-even-linked-list) |
+| [0859-design-circular-deque](https://github.com/Feven-TH/Competitive-programming/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0525-contiguous-array) |
 | [0739-daily-temperatures](https://github.com/Feven-TH/Competitive-programming/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
+| [0859-design-circular-deque](https://github.com/Feven-TH/Competitive-programming/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Feven-TH/Competitive-programming/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Feven-TH/Competitive-programming/tree/master/1095-two-city-scheduling) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Feven-TH/Competitive-programming/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Feven-TH/Competitive-programming/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Feven-TH/Competitive-programming/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Feven-TH/Competitive-programming/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Feven-TH/Competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
