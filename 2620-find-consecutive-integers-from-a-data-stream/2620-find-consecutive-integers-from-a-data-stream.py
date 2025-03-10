@@ -1,16 +1,24 @@
 class DataStream:
 
     def __init__(self, value: int, k: int):
-        self.counts = 0
-        self.value = value
+        self.stack = []
         self.k = k
-    def consec(self, num: int) -> bool:
-        if num == self.value:
-            self.counts += 1
-        else:
-            self.counts = 0
+        self.value = value
 
-        return self.counts >= self.k
+    def consec(self, num: int) -> bool:
+        self.num = num
+        if self.num == self.value:
+            self.stack.append(self.num)
+            if len(self.stack) > self.k:
+                self.stack.pop()
+        else:
+            self.stack = []
+        return len(self.stack) == self.k
+
+
+
+
+    
 
 # Your DataStream object will be instantiated and called as such:
 # obj = DataStream(value, k)
