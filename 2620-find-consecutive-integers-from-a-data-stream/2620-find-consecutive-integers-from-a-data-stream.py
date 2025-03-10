@@ -9,11 +9,10 @@ class DataStream:
         self.num = num
         if self.num == self.value:
             self.stack.append(self.num)
-            if len(self.stack) > self.k:
-                self.stack.pop()
         else:
             self.stack = []
-        return len(self.stack) == self.k
+
+        return len(self.stack) >= self.k
 
 
 
