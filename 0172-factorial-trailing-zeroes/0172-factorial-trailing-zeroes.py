@@ -9,10 +9,8 @@ class Solution:
         num = factorial(n)
         # print(s)
         count = 0
-        while num :
-            if num % 10 == 0:
-                count += 1
-                num = num // 10
-            else:
-                return count
+        while num % 10 == 0:
+            count += 1
+            num = num // 10
+        return count
          
