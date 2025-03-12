@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Feven-TH/Competitive-programming/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Feven-TH/Competitive-programming/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Feven-TH/Competitive-programming/tree/master/0943-sum-of-subarray-minimums) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Feven-TH/Competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Feven-TH/Competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Feven-TH/Competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
 | [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 ## Doubly-Linked List
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Feven-TH/Competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Feven-TH/Competitive-programming/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Feven-TH/Competitive-programming/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Feven-TH/Competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
