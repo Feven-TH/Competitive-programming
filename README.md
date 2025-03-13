@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Feven-TH/Competitive-programming/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Feven-TH/Competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Feven-TH/Competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Feven-TH/Competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Feven-TH/Competitive-programming/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Feven-TH/Competitive-programming/tree/master/0486-predict-the-winner) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Feven-TH/Competitive-programming/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Feven-TH/Competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Feven-TH/Competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Feven-TH/Competitive-programming/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Feven-TH/Competitive-programming/tree/master/0394-decode-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Feven-TH/Competitive-programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Feven-TH/Competitive-programming/tree/master/0342-power-of-four) |
 ## Game Theory
 |  |
