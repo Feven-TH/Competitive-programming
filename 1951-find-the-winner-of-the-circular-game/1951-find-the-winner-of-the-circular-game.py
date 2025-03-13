@@ -7,7 +7,7 @@ class Solution:
 
             index = (curr + k - 1 ) % len(nums)
             nums.pop(index)
-            return win(nums, index % len(nums))
+            return win(nums, index)
             
         return win(nums,0)
         
