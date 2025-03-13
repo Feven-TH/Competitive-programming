@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/Feven-TH/Competitive-programming/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Feven-TH/Competitive-programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3055-maximum-odd-binary-number](https://github.com/Feven-TH/Competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 ## Recursion
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Feven-TH/Competitive-programming/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Feven-TH/Competitive-programming/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Feven-TH/Competitive-programming/tree/master/1720-crawler-log-folder) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 ## Doubly-Linked List
 |  |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/Feven-TH/Competitive-programming/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Feven-TH/Competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
