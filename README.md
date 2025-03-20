@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Feven-TH/Competitive-programming/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Feven-TH/Competitive-programming/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
@@ -308,5 +309,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Feven-TH/Competitive-programming/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Feven-TH/Competitive-programming/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
