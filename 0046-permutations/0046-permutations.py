@@ -1,19 +1,23 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         ans = []
-        # n = len(nums)
+        arr = []
+        s = set()
+        n = len(nums)
         
-        def backtrack(arr):
-            if len(arr) == len(nums):
+        def backtrack():
+            if len(arr) == n:
                 ans.append(arr[:])
                 return 
 
             for i in nums:
-                if i in arr:
+                if i in s:
                     continue
                 arr.append(i)
-                backtrack(arr)
+                s.add(i)
+                backtrack()
                 arr.pop()
+                s.remove(i)
         
-        backtrack([])
+        backtrack()
         return ans
