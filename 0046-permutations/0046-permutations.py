@@ -2,7 +2,6 @@ class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         ans = []
         arr = []
-        s = set()
         n = len(nums)
         
         def backtrack():
@@ -11,13 +10,11 @@ class Solution:
                 return 
 
             for i in nums:
-                if i in s:
+                if i in arr:
                     continue
-                arr.append(i)
-                s.add(i)
+                arr.append(i)  
                 backtrack()
                 arr.pop()
-                s.remove(i)
-        
+            
         backtrack()
         return ans
