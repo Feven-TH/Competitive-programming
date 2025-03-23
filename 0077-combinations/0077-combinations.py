@@ -1,18 +1,14 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         res = []
-        path = []
-        def backtrack(i):
-            if len(path) == k:
-                res.append(path.copy())
-                return 
-            if i > n:
+        def backtrack(i,curr):
+            if len(curr) == k:
+                res.append(curr.copy())
                 return
-            path.append(i)
-            backtrack(i + 1)
-
-            path.pop()
-            backtrack(i + 1)
-        
-        backtrack(1)
+            for i in range(i , n +1 ):
+                curr.append(i)
+                backtrack(i + 1,curr)
+                curr.pop()
+            
+        backtrack(1, [])
         return res
