@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Feven-TH/Competitive-programming/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Feven-TH/Competitive-programming/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Feven-TH/Competitive-programming/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Feven-TH/Competitive-programming/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Feven-TH/Competitive-programming/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Feven-TH/Competitive-programming/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Feven-TH/Competitive-programming/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Feven-TH/Competitive-programming/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Feven-TH/Competitive-programming/tree/master/0078-subsets) |
