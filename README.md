@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Feven-TH/Competitive-programming/tree/master/0943-sum-of-subarray-minimums) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Feven-TH/Competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/Feven-TH/Competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Feven-TH/Competitive-programming/tree/master/1464-reduce-array-size-to-the-half) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Feven-TH/Competitive-programming/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Feven-TH/Competitive-programming/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/Feven-TH/Competitive-programming/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Feven-TH/Competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
