@@ -4,7 +4,6 @@ class Solution:
             count = 0
             for p in piles:        
                 count += math.ceil(p/mid)
-    
             return count <= h
         
         low = 1
