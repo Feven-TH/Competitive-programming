@@ -8,11 +8,11 @@ class Solution:
 
         high = max(ranks) * cars**2
         low = 1
-        while low < high:
+        while low <= high:
             mid = (low + high)//2
             # print(validate(mid))
             if validate(mid) :
-                high = mid                 
+                high = mid - 1                
             else:
                 low = mid + 1
             
