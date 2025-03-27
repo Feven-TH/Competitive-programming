@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Feven-TH/Competitive-programming/tree/master/1720-crawler-log-folder) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Feven-TH/Competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Feven-TH/Competitive-programming/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Feven-TH/Competitive-programming/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Feven-TH/Competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Feven-TH/Competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 ## Bit Manipulation
 |  |
 | ------- |
