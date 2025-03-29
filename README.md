@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
+| [0275-h-index-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0275-h-index-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Feven-TH/Competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Feven-TH/Competitive-programming/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Feven-TH/Competitive-programming/tree/master/0486-predict-the-winner) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Feven-TH/Competitive-programming/tree/master/0069-sqrtx) |
+| [0275-h-index-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Feven-TH/Competitive-programming/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Feven-TH/Competitive-programming/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/Feven-TH/Competitive-programming/tree/master/0792-binary-search) |
