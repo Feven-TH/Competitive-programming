@@ -10,6 +10,7 @@ class Solution:
                     count += 1
                 if count == m:
                     return True
+            return False
         
         position.sort()
         low = 1
