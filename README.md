@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Feven-TH/Competitive-programming/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Feven-TH/Competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Feven-TH/Competitive-programming/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Feven-TH/Competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Feven-TH/Competitive-programming/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Feven-TH/Competitive-programming/tree/master/0486-predict-the-winner) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Feven-TH/Competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Feven-TH/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0523-continuous-subarray-sum) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Feven-TH/Competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/Feven-TH/Competitive-programming/tree/master/0475-heaters) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Feven-TH/Competitive-programming/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Feven-TH/Competitive-programming/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/Feven-TH/Competitive-programming/tree/master/0456-132-pattern) |
@@ -289,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Feven-TH/Competitive-programming/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Feven-TH/Competitive-programming/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Feven-TH/Competitive-programming/tree/master/0342-power-of-four) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Feven-TH/Competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Game Theory
