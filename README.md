@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Feven-TH/Competitive-programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Feven-TH/Competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Feven-TH/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Feven-TH/Competitive-programming/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Feven-TH/Competitive-programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Feven-TH/Competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Feven-TH/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
 ## Merge Sort
 |  |
 | ------- |
@@ -468,5 +472,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
