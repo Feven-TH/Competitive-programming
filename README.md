@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/Feven-TH/Competitive-programming/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
 | [0739-daily-temperatures](https://github.com/Feven-TH/Competitive-programming/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Feven-TH/Competitive-programming/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/Feven-TH/Competitive-programming/tree/master/0645-set-mismatch) |
+| [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Feven-TH/Competitive-programming/tree/master/1464-reduce-array-size-to-the-half) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Feven-TH/Competitive-programming/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Feven-TH/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Feven-TH/Competitive-programming/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Feven-TH/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Feven-TH/Competitive-programming/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Feven-TH/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
