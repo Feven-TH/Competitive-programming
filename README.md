@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/Feven-TH/Competitive-programming/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Feven-TH/Competitive-programming/tree/master/1036-rotting-oranges) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Feven-TH/Competitive-programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Feven-TH/Competitive-programming/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Feven-TH/Competitive-programming/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/Feven-TH/Competitive-programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [3189-find-champion-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3189-find-champion-ii) |
 ## Union Find
