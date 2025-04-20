@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Feven-TH/Competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Feven-TH/Competitive-programming/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/Feven-TH/Competitive-programming/tree/master/0093-restore-ip-addresses) |
 | [0394-decode-string](https://github.com/Feven-TH/Competitive-programming/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Feven-TH/Competitive-programming/tree/master/0886-score-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Feven-TH/Competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Feven-TH/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Feven-TH/Competitive-programming/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Feven-TH/Competitive-programming/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Feven-TH/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Feven-TH/Competitive-programming/tree/master/0547-number-of-provinces) |
@@ -501,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Feven-TH/Competitive-programming/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Feven-TH/Competitive-programming/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Feven-TH/Competitive-programming/tree/master/0871-keys-and-rooms) |
@@ -512,8 +517,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Feven-TH/Competitive-programming/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Feven-TH/Competitive-programming/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Feven-TH/Competitive-programming/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
