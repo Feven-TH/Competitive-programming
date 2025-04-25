@@ -1,35 +1,35 @@
 class Solution:
     def checkIfPrerequisite(self, numCourses: int, prerequisites: List[List[int]], queries: List[List[int]]) -> List[bool]:
-        adjList = defaultdict(list)
-        indegree = [0] * numCourses
-
-        for edge in prerequisites:
-            adjList[edge[0]].append(edge[1])
-            indegree[edge[1]] += 1
-
+        n = numCourses
+        graph = [[] for i in range(n)]
+        indegree = [0 for i in range(n)]
         q = deque()
-        for i in range(numCourses):
+        pre = defaultdict(set)
+        res = []
+
+        for p , c in prerequisites:
+            graph[p].append(c)
+            indegree[c] += 1
+
+        for i in range(len(indegree)):
             if indegree[i] == 0:
                 q.append(i)
-
-        nodePrerequisites = defaultdict(set)
-
+        
         while q:
-            node = q.popleft()
+            curr = q.popleft()
+            for nei in graph[curr]:
+                pre[nei].add(curr)
+                for n in pre[curr]:
+                    pre[nei].add(n)
 
-            for adj in adjList[node]:
-                nodePrerequisites[adj].add(node)
-                for prereq in nodePrerequisites[node]:
-                    nodePrerequisites[adj].add(prereq)
+                indegree[nei] -= 1
+                if indegree[nei] == 0:
+                    q.append(nei)
 
-                indegree[adj] -= 1
-                if indegree[adj] == 0:
-                    q.append(adj)
-
-        res = []
-        for q in queries:
-            res.append(q[0] in nodePrerequisites[q[1]])
-
-        return res
+        for u,v in queries:
+            res.append(u in pre[v])
             
+        return res
 
+
+        
