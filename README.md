@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Feven-TH/Competitive-programming/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/Feven-TH/Competitive-programming/tree/master/0859-design-circular-deque) |
+| [0881-loud-and-rich](https://github.com/Feven-TH/Competitive-programming/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/Feven-TH/Competitive-programming/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Feven-TH/Competitive-programming/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Feven-TH/Competitive-programming/tree/master/0943-sum-of-subarray-minimums) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Feven-TH/Competitive-programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Feven-TH/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Feven-TH/Competitive-programming/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/Feven-TH/Competitive-programming/tree/master/0881-loud-and-rich) |
 | [1005-univalued-binary-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Feven-TH/Competitive-programming/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Feven-TH/Competitive-programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Feven-TH/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Feven-TH/Competitive-programming/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/Feven-TH/Competitive-programming/tree/master/0881-loud-and-rich) |
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Feven-TH/Competitive-programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1558-course-schedule-iv](https://github.com/Feven-TH/Competitive-programming/tree/master/1558-course-schedule-iv) |
@@ -556,5 +559,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Feven-TH/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/Feven-TH/Competitive-programming/tree/master/0881-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/Feven-TH/Competitive-programming/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
