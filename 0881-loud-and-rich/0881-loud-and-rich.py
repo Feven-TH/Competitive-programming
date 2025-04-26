@@ -23,18 +23,3 @@ class Solution:
                     q.append(nei)
         
         return res
-
-        # res = []
-        # for i in range(len(quiet)):
-        #     minn = float('inf')
-        #     ind = -1
-        #     for j in range(i,len(quiet)):
-        #         if quiet[ranked[j]] < minn:
-        #             minn = quiet[ranked[j]]
-        #             ind = ranked[j]
-        #             # print("minn:" ,minn)
-        #             # print("ind:" , ind)
-        #     res.append(ind)
-        # return res
-        
-       
