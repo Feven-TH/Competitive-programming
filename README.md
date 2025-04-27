@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Feven-TH/Competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Feven-TH/Competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Feven-TH/Competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Feven-TH/Competitive-programming/tree/master/1464-reduce-array-size-to-the-half) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Prefix Sum
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Feven-TH/Competitive-programming/tree/master/1720-crawler-log-folder) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Feven-TH/Competitive-programming/tree/master/3055-maximum-odd-binary-number) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/Feven-TH/Competitive-programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1558-course-schedule-iv](https://github.com/Feven-TH/Competitive-programming/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Feven-TH/Competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3189-find-champion-ii) |
 ## Union Find
@@ -561,4 +565,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Feven-TH/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/Feven-TH/Competitive-programming/tree/master/0881-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/Feven-TH/Competitive-programming/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
