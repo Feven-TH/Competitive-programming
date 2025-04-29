@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Feven-TH/Competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0328-odd-even-linked-list) |
 | [0859-design-circular-deque](https://github.com/Feven-TH/Competitive-programming/tree/master/0859-design-circular-deque) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Feven-TH/Competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0948-sort-an-array) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Feven-TH/Competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Feven-TH/Competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0948-sort-an-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Feven-TH/Competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
