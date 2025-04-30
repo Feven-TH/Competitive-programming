@@ -31,7 +31,3 @@ class Solution:
 
         
          
-# change the linked lists to an array
-# for each list in the array append the first element in the heap afterwards append them with index of the list they came with and the index too 
-# when popping push the next element 
-# usie th linked list
