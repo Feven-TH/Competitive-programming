@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Feven-TH/Competitive-programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Feven-TH/Competitive-programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Feven-TH/Competitive-programming/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Feven-TH/Competitive-programming/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Feven-TH/Competitive-programming/tree/master/0792-binary-search) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Feven-TH/Competitive-programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Feven-TH/Competitive-programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Feven-TH/Competitive-programming/tree/master/1464-reduce-array-size-to-the-half) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Feven-TH/Competitive-programming/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/Feven-TH/Competitive-programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Feven-TH/Competitive-programming/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Feven-TH/Competitive-programming/tree/master/0093-restore-ip-addresses) |
 | [0394-decode-string](https://github.com/Feven-TH/Competitive-programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Feven-TH/Competitive-programming/tree/master/0886-score-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Feven-TH/Competitive-programming/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Feven-TH/Competitive-programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Feven-TH/Competitive-programming/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Feven-TH/Competitive-programming/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Feven-TH/Competitive-programming/tree/master/0801-is-graph-bipartite) |
@@ -463,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Feven-TH/Competitive-programming/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/Feven-TH/Competitive-programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Feven-TH/Competitive-programming/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Feven-TH/Competitive-programming/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Feven-TH/Competitive-programming/tree/master/0801-is-graph-bipartite) |
@@ -591,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Feven-TH/Competitive-programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Feven-TH/Competitive-programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Feven-TH/Competitive-programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Feven-TH/Competitive-programming/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Feven-TH/Competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
