@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0999-regions-cut-by-slashes](https://github.com/Feven-TH/Competitive-programming/tree/master/0999-regions-cut-by-slashes) |
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Feven-TH/Competitive-programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Feven-TH/Competitive-programming/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Feven-TH/Competitive-programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Feven-TH/Competitive-programming/tree/master/0886-score-of-parentheses) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Feven-TH/Competitive-programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Feven-TH/Competitive-programming/tree/master/1720-crawler-log-folder) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Feven-TH/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Feven-TH/Competitive-programming/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/Feven-TH/Competitive-programming/tree/master/0881-loud-and-rich) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Feven-TH/Competitive-programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Feven-TH/Competitive-programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1558-course-schedule-iv](https://github.com/Feven-TH/Competitive-programming/tree/master/1558-course-schedule-iv) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Feven-TH/Competitive-programming/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/Feven-TH/Competitive-programming/tree/master/0999-regions-cut-by-slashes) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Feven-TH/Competitive-programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Feven-TH/Competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
