@@ -21,9 +21,20 @@ class Solution:
                     root[rooty] = rootx  
                     rank[rootx] += 1 
         
+        row = defaultdict(list)
         for i in range(len(stones)):
-            for j in range(len(stones)):  
-                if i != j and (stones[i][0] == stones[j][0] or stones[i][1] == stones[j][1]):
-                    union(i,j)
-        # print(root)
+            row[stones[i][0]].append(i)
+        
+        col = defaultdict(list)
+        for i in range(len(stones)):
+            col[stones[i][1]].append(i)
+
+        for r in row:
+            for i in range(1, len(row[r])): 
+                union(row[r][i-1], row[r][i])
+        for c in col:
+            for i in range(1, len(col[c])):
+                union(col[c][i-1], col[c][i])
+        
+        
         return len(stones) - len(set(find(i) for i in root))
