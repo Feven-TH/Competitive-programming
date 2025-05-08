@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Feven-TH/Competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Feven-TH/Competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Feven-TH/Competitive-programming/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/Feven-TH/Competitive-programming/tree/master/1720-crawler-log-folder) |
 | [1762-furthest-building-you-can-reach](https://github.com/Feven-TH/Competitive-programming/tree/master/1762-furthest-building-you-can-reach) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Feven-TH/Competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Feven-TH/Competitive-programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1558-course-schedule-iv](https://github.com/Feven-TH/Competitive-programming/tree/master/1558-course-schedule-iv) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Feven-TH/Competitive-programming/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Feven-TH/Competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Feven-TH/Competitive-programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Feven-TH/Competitive-programming/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Feven-TH/Competitive-programming/tree/master/1032-satisfiability-of-equality-equations) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Feven-TH/Competitive-programming/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Feven-TH/Competitive-programming/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
@@ -629,4 +632,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/Feven-TH/Competitive-programming/tree/master/0881-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/Feven-TH/Competitive-programming/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Feven-TH/Competitive-programming/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
