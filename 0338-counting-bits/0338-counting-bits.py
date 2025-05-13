@@ -4,8 +4,8 @@ class Solution:
         for i in range(n +1):
             count = 0
             while i:
-                rem = i%2
+                rem = i & 1
                 count += (rem == 1 )
-                i //= 2 
+                i >>= 1 
             res.append(count)
         return res
