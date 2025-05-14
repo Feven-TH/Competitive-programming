@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/2050-count-good-numbers) |
+| [2621-find-xor-beauty-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Feven-TH/Competitive-programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3055-maximum-odd-binary-number](https://github.com/Feven-TH/Competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 ## Recursion
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Feven-TH/Competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Feven-TH/Competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2621-find-xor-beauty-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Feven-TH/Competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Feven-TH/Competitive-programming/tree/master/0645-set-mismatch) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Feven-TH/Competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Feven-TH/Competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2621-find-xor-beauty-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Feven-TH/Competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Game Theory
 |  |
