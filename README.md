@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Feven-TH/Competitive-programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Feven-TH/Competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Prefix Sum
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Feven-TH/Competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Feven-TH/Competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Feven-TH/Competitive-programming/tree/master/1720-crawler-log-folder) |
+| [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Feven-TH/Competitive-programming/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Feven-TH/Competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Feven-TH/Competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2621-find-xor-beauty-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Feven-TH/Competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
