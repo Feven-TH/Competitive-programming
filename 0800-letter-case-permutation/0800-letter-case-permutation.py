@@ -1,12 +1,14 @@
 class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
+        chars = [i for i, c in enumerate(s) if c.isalpha()]
         res = []
-        def backtrack(i, path):
-            if i == len(s):
-                res.append(path)
-                return
-            backtrack(i + 1, path + s[i])
-            if s[i].isalpha():
-                backtrack(i + 1, path + s[i].swapcase())
-        backtrack(0, "")
-        return res
+        for i in range(1<<len(chars)):
+            temp = list(s)
+            for j in range(len(chars)):
+                idx = chars[j]
+                if i & (1<<j):
+                    temp[idx] = temp[idx].swapcase()
+            res.append("".join(temp))
+        return res            
+
+            
