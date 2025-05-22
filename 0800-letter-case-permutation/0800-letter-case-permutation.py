@@ -1,6 +1,6 @@
 class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
-        chars = [i for i, c in enumerate(s) if c.isalpha()]
+        chars = [i for i,c in enumerate(s) if c.isalpha()]
         res = []
         for i in range(1<<len(chars)):
             temp = list(s)
