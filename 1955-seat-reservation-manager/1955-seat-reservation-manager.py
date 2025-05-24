@@ -5,6 +5,7 @@ class SeatManager:
 
     def reserve(self) -> int:
         return heappop(self.nums)
+    
     def unreserve(self, seatNumber: int) -> None:
         heappush(self.nums,seatNumber)
 
