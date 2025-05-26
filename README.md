@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Feven-TH/Competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Feven-TH/Competitive-programming/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Feven-TH/Competitive-programming/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Feven-TH/Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Feven-TH/Competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/Feven-TH/Competitive-programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
+| [0415-add-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0415-add-strings) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0800-letter-case-permutation](https://github.com/Feven-TH/Competitive-programming/tree/master/0800-letter-case-permutation) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
