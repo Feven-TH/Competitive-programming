@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Feven-TH/Competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2621-find-xor-beauty-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Feven-TH/Competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Feven-TH/Competitive-programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Hash Table
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Feven-TH/Competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3055-maximum-odd-binary-number](https://github.com/Feven-TH/Competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Feven-TH/Competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
