@@ -9,7 +9,7 @@ class Solution:
 
         for i in range(len(prefix)):
             prefix[i] = prefix[i] % k
-        print(prefix)
+        # print(prefix)
         for i in range(len(prefix)):
             if prefix[i] in maps:
                 if i - maps[prefix[i]] >= 2:
