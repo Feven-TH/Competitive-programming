@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Feven-TH/Competitive-programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3055-maximum-odd-binary-number](https://github.com/Feven-TH/Competitive-programming/tree/master/3055-maximum-odd-binary-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Feven-TH/Competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/Feven-TH/Competitive-programming/tree/master/1962-single-threaded-cpu) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2478-longest-nice-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/2478-longest-nice-subarray) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Feven-TH/Competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -720,4 +722,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Feven-TH/Competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
