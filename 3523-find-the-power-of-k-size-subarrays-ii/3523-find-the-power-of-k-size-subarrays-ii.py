@@ -8,6 +8,6 @@ class Solution:
             if nums[i] - nums[i - 1] != 1:
                 left = i
             if i - left + 1 == k:
-                res[i - k + 1] = nums[i]
+                res[left] = nums[i]
                 left += 1
         return res
