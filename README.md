@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Feven-TH/Competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Dynamic Programming
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2478-longest-nice-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Feven-TH/Competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Ordered Set
 |  |
 | ------- |
