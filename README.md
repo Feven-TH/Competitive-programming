@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Feven-TH/Competitive-programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Feven-TH/Competitive-programming/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Feven-TH/Competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Feven-TH/Competitive-programming/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Feven-TH/Competitive-programming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Feven-TH/Competitive-programming/tree/master/0326-power-of-three) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Feven-TH/Competitive-programming/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0275-h-index-ii) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Feven-TH/Competitive-programming/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Memoization
 |  |
@@ -793,4 +796,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Feven-TH/Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Feven-TH/Competitive-programming/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
