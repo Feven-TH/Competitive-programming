@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Feven-TH/Competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Feven-TH/Competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Feven-TH/Competitive-programming/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Feven-TH/Competitive-programming/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Feven-TH/Competitive-programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Feven-TH/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Feven-TH/Competitive-programming/tree/master/0739-daily-temperatures) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Feven-TH/Competitive-programming/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Feven-TH/Competitive-programming/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Feven-TH/Competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Feven-TH/Competitive-programming/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/Feven-TH/Competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/Feven-TH/Competitive-programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/Feven-TH/Competitive-programming/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0415-add-strings) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0800-letter-case-permutation](https://github.com/Feven-TH/Competitive-programming/tree/master/0800-letter-case-permutation) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Feven-TH/Competitive-programming/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Feven-TH/Competitive-programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Feven-TH/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Feven-TH/Competitive-programming/tree/master/0739-daily-temperatures) |
