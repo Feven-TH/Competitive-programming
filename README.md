@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Feven-TH/Competitive-programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
+| [0782-jewels-and-stones](https://github.com/Feven-TH/Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0869-similar-string-groups](https://github.com/Feven-TH/Competitive-programming/tree/master/0869-similar-string-groups) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Feven-TH/Competitive-programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Feven-TH/Competitive-programming/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0415-add-strings) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
+| [0782-jewels-and-stones](https://github.com/Feven-TH/Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Feven-TH/Competitive-programming/tree/master/0800-letter-case-permutation) |
 | [0869-similar-string-groups](https://github.com/Feven-TH/Competitive-programming/tree/master/0869-similar-string-groups) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
