@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Feven-TH/Competitive-programming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Feven-TH/Competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Feven-TH/Competitive-programming/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Feven-TH/Competitive-programming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Feven-TH/Competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Feven-TH/Competitive-programming/tree/master/0475-heaters) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
