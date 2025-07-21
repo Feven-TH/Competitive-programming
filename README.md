@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/Feven-TH/Competitive-programming/tree/master/0886-score-of-parentheses) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Feven-TH/Competitive-programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Feven-TH/Competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
