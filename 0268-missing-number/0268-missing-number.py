@@ -1,10 +1,8 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        bucket = [[] for _ in range(len(nums) + 1)]
+        missing = 0
+        for i in range(len(nums)+1):
+            missing ^= i
         for num in nums:
-            bucket[num].append(num)
-        
-        for i in range(len(bucket)):
-            if len(bucket[i]) == 0:
-                return i 
-        
+            missing ^= num
+        return missing
