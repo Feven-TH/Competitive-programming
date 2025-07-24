@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Feven-TH/Competitive-programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Feven-TH/Competitive-programming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Feven-TH/Competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Feven-TH/Competitive-programming/tree/master/0204-count-primes) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Feven-TH/Competitive-programming/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Feven-TH/Competitive-programming/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/Feven-TH/Competitive-programming/tree/master/0093-restore-ip-addresses) |
+| [0171-excel-sheet-column-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0205-isomorphic-strings) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Feven-TH/Competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/Feven-TH/Competitive-programming/tree/master/0394-decode-string) |
