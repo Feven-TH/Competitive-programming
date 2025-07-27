@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/Feven-TH/Competitive-programming/tree/master/1962-single-threaded-cpu) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/2478-longest-nice-subarray) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Feven-TH/Competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Feven-TH/Competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
