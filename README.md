@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Feven-TH/Competitive-programming/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Feven-TH/Competitive-programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Feven-TH/Competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Feven-TH/Competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Feven-TH/Competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Feven-TH/Competitive-programming/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Feven-TH/Competitive-programming/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Feven-TH/Competitive-programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Feven-TH/Competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Feven-TH/Competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Feven-TH/Competitive-programming/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Feven-TH/Competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Number Theory
 |  |
