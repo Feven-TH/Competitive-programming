@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2689-rearranging-fruits](https://github.com/Feven-TH/Competitive-programming/tree/master/2689-rearranging-fruits) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/Feven-TH/Competitive-programming/tree/master/1962-single-threaded-cpu) |
 | [1970-sorting-the-sentence](https://github.com/Feven-TH/Competitive-programming/tree/master/1970-sorting-the-sentence) |
 | [2689-rearranging-fruits](https://github.com/Feven-TH/Competitive-programming/tree/master/2689-rearranging-fruits) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2689-rearranging-fruits](https://github.com/Feven-TH/Competitive-programming/tree/master/2689-rearranging-fruits) |
 | [3055-maximum-odd-binary-number](https://github.com/Feven-TH/Competitive-programming/tree/master/3055-maximum-odd-binary-number) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String
 |  |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3055-maximum-odd-binary-number](https://github.com/Feven-TH/Competitive-programming/tree/master/3055-maximum-odd-binary-number) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Feven-TH/Competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Counting
 |  |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Feven-TH/Competitive-programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
 | ------- |
