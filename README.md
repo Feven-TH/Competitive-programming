@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Feven-TH/Competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Feven-TH/Competitive-programming/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/Feven-TH/Competitive-programming/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Feven-TH/Competitive-programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Feven-TH/Competitive-programming/tree/master/0820-find-eventual-safe-states) |
 | [0869-similar-string-groups](https://github.com/Feven-TH/Competitive-programming/tree/master/0869-similar-string-groups) |
 | [0871-keys-and-rooms](https://github.com/Feven-TH/Competitive-programming/tree/master/0871-keys-and-rooms) |
+| [0945-snakes-and-ladders](https://github.com/Feven-TH/Competitive-programming/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Feven-TH/Competitive-programming/tree/master/0999-regions-cut-by-slashes) |
 | [1005-univalued-binary-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Feven-TH/Competitive-programming/tree/master/1036-rotting-oranges) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Feven-TH/Competitive-programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Feven-TH/Competitive-programming/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/Feven-TH/Competitive-programming/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Feven-TH/Competitive-programming/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Feven-TH/Competitive-programming/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Feven-TH/Competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
