@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Feven-TH/Competitive-programming/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0525-contiguous-array) |
+| [0529-minesweeper](https://github.com/Feven-TH/Competitive-programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Feven-TH/Competitive-programming/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Feven-TH/Competitive-programming/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Feven-TH/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/Feven-TH/Competitive-programming/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/Feven-TH/Competitive-programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Feven-TH/Competitive-programming/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Feven-TH/Competitive-programming/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Feven-TH/Competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/Feven-TH/Competitive-programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Feven-TH/Competitive-programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Feven-TH/Competitive-programming/tree/master/0684-redundant-connection) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Feven-TH/Competitive-programming/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/Feven-TH/Competitive-programming/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Feven-TH/Competitive-programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Feven-TH/Competitive-programming/tree/master/0733-flood-fill) |
