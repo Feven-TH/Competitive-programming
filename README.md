@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Feven-TH/Competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1127-last-stone-weight](https://github.com/Feven-TH/Competitive-programming/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
+| [1217-relative-sort-array](https://github.com/Feven-TH/Competitive-programming/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Feven-TH/Competitive-programming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Feven-TH/Competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Feven-TH/Competitive-programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Feven-TH/Competitive-programming/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
+| [1217-relative-sort-array](https://github.com/Feven-TH/Competitive-programming/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Feven-TH/Competitive-programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Feven-TH/Competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/Feven-TH/Competitive-programming/tree/master/1095-two-city-scheduling) |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
+| [1217-relative-sort-array](https://github.com/Feven-TH/Competitive-programming/tree/master/1217-relative-sort-array) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Feven-TH/Competitive-programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Feven-TH/Competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Feven-TH/Competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Feven-TH/Competitive-programming/tree/master/1217-relative-sort-array) |
 ## Quickselect
 |  |
 | ------- |
