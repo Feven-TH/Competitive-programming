@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2689-rearranging-fruits](https://github.com/Feven-TH/Competitive-programming/tree/master/2689-rearranging-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Feven-TH/Competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1696-strange-printer-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/1696-strange-printer-ii) |
 | [1876-map-of-highest-peak](https://github.com/Feven-TH/Competitive-programming/tree/master/1876-map-of-highest-peak) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Merge Sort
 |  |
