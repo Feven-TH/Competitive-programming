@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Feven-TH/Competitive-programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3055-maximum-odd-binary-number](https://github.com/Feven-TH/Competitive-programming/tree/master/3055-maximum-odd-binary-number) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Feven-TH/Competitive-programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Feven-TH/Competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Feven-TH/Competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Feven-TH/Competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Feven-TH/Competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2689-rearranging-fruits](https://github.com/Feven-TH/Competitive-programming/tree/master/2689-rearranging-fruits) |
@@ -943,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Feven-TH/Competitive-programming/tree/master/0204-count-primes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Feven-TH/Competitive-programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Memoization
 |  |
 | ------- |
