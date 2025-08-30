@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Feven-TH/Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Feven-TH/Competitive-programming/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Feven-TH/Competitive-programming/tree/master/0051-n-queens) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Feven-TH/Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Feven-TH/Competitive-programming/tree/master/0242-valid-anagram) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Feven-TH/Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Feven-TH/Competitive-programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
