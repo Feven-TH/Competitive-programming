@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Feven-TH/Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Feven-TH/Competitive-programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/Feven-TH/Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Feven-TH/Competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Feven-TH/Competitive-programming/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Feven-TH/Competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Feven-TH/Competitive-programming/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Feven-TH/Competitive-programming/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Feven-TH/Competitive-programming/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Feven-TH/Competitive-programming/tree/master/0792-binary-search) |
