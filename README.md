@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2689-rearranging-fruits](https://github.com/Feven-TH/Competitive-programming/tree/master/2689-rearranging-fruits) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Feven-TH/Competitive-programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Feven-TH/Competitive-programming/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Feven-TH/Competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Feven-TH/Competitive-programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Feven-TH/Competitive-programming/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Feven-TH/Competitive-programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
 |  |
 | ------- |
