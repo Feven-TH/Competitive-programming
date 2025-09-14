@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0978-valid-mountain-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0999-regions-cut-by-slashes](https://github.com/Feven-TH/Competitive-programming/tree/master/0999-regions-cut-by-slashes) |
+| [1006-vowel-spellchecker](https://github.com/Feven-TH/Competitive-programming/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/Feven-TH/Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Feven-TH/Competitive-programming/tree/master/1032-satisfiability-of-equality-equations) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/Feven-TH/Competitive-programming/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Feven-TH/Competitive-programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Feven-TH/Competitive-programming/tree/master/0999-regions-cut-by-slashes) |
+| [1006-vowel-spellchecker](https://github.com/Feven-TH/Competitive-programming/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
 | [1217-relative-sort-array](https://github.com/Feven-TH/Competitive-programming/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Feven-TH/Competitive-programming/tree/master/0869-similar-string-groups) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Feven-TH/Competitive-programming/tree/master/0886-score-of-parentheses) |
+| [1006-vowel-spellchecker](https://github.com/Feven-TH/Competitive-programming/tree/master/1006-vowel-spellchecker) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Feven-TH/Competitive-programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1302-delete-characters-to-make-fancy-string) |
