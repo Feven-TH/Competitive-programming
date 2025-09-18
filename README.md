@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Feven-TH/Competitive-programming/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Feven-TH/Competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Feven-TH/Competitive-programming/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Feven-TH/Competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Feven-TH/Competitive-programming/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Feven-TH/Competitive-programming/tree/master/0486-predict-the-winner) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Feven-TH/Competitive-programming/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Feven-TH/Competitive-programming/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Feven-TH/Competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Feven-TH/Competitive-programming/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Feven-TH/Competitive-programming/tree/master/0475-heaters) |
