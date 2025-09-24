@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Feven-TH/Competitive-programming/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Feven-TH/Competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Feven-TH/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Feven-TH/Competitive-programming/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/Feven-TH/Competitive-programming/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Feven-TH/Competitive-programming/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0410-split-array-largest-sum) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Feven-TH/Competitive-programming/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Feven-TH/Competitive-programming/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Feven-TH/Competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Feven-TH/Competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0410-split-array-largest-sum) |
