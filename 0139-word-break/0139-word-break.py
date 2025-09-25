@@ -12,5 +12,5 @@ class Solution:
                             flag = True
                             return True
                 memo[i] = flag
-                return memo[i]
+            return memo[i]
         return dp(0)
