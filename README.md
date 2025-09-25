@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Feven-TH/Competitive-programming/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Feven-TH/Competitive-programming/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Feven-TH/Competitive-programming/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Feven-TH/Competitive-programming/tree/master/0198-house-robber) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Feven-TH/Competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Feven-TH/Competitive-programming/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Feven-TH/Competitive-programming/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Feven-TH/Competitive-programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Feven-TH/Competitive-programming/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Feven-TH/Competitive-programming/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/Feven-TH/Competitive-programming/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Feven-TH/Competitive-programming/tree/master/0242-valid-anagram) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Feven-TH/Competitive-programming/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/Feven-TH/Competitive-programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Feven-TH/Competitive-programming/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Feven-TH/Competitive-programming/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Feven-TH/Competitive-programming/tree/master/0242-valid-anagram) |
@@ -1018,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Feven-TH/Competitive-programming/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/Feven-TH/Competitive-programming/tree/master/1236-n-th-tribonacci-number) |
 ## Geometry
@@ -1032,4 +1037,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Feven-TH/Competitive-programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Feven-TH/Competitive-programming/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
