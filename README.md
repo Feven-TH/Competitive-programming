@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Feven-TH/Competitive-programming/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Feven-TH/Competitive-programming/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/Feven-TH/Competitive-programming/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Feven-TH/Competitive-programming/tree/master/0349-intersection-of-two-arrays) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Feven-TH/Competitive-programming/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Feven-TH/Competitive-programming/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Feven-TH/Competitive-programming/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Feven-TH/Competitive-programming/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Feven-TH/Competitive-programming/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/Feven-TH/Competitive-programming/tree/master/0403-frog-jump) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Feven-TH/Competitive-programming/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/Feven-TH/Competitive-programming/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Feven-TH/Competitive-programming/tree/master/0463-island-perimeter) |
