@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Feven-TH/Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Feven-TH/Competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Feven-TH/Competitive-programming/tree/master/0506-relative-ranks) |
+| [0518-coin-change-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0525-contiguous-array) |
 | [0529-minesweeper](https://github.com/Feven-TH/Competitive-programming/tree/master/0529-minesweeper) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Feven-TH/Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0514-freedom-trail](https://github.com/Feven-TH/Competitive-programming/tree/master/0514-freedom-trail) |
+| [0518-coin-change-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/0934-bitwise-ors-of-subarrays) |
