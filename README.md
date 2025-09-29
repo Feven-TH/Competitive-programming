@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Feven-TH/Competitive-programming/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Feven-TH/Competitive-programming/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Feven-TH/Competitive-programming/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Feven-TH/Competitive-programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Feven-TH/Competitive-programming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0070-climbing-stairs) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Feven-TH/Competitive-programming/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Feven-TH/Competitive-programming/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Feven-TH/Competitive-programming/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0119-pascals-triangle-ii) |
@@ -1048,4 +1050,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Feven-TH/Competitive-programming/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Feven-TH/Competitive-programming/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
