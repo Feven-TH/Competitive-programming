@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Feven-TH/Competitive-programming/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Feven-TH/Competitive-programming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Feven-TH/Competitive-programming/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Feven-TH/Competitive-programming/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Feven-TH/Competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Feven-TH/Competitive-programming/tree/master/0342-power-of-four) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Feven-TH/Competitive-programming/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Feven-TH/Competitive-programming/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Feven-TH/Competitive-programming/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Feven-TH/Competitive-programming/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Feven-TH/Competitive-programming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Feven-TH/Competitive-programming/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Feven-TH/Competitive-programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Feven-TH/Competitive-programming/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Feven-TH/Competitive-programming/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/Feven-TH/Competitive-programming/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Feven-TH/Competitive-programming/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
