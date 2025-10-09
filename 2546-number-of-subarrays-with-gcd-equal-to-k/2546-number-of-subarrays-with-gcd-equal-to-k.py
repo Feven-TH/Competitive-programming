@@ -6,6 +6,8 @@ class Solution:
             for j in range(i,len(nums)):
                 if g == 0:
                     g = nums[j]
+                elif nums[j] < k:
+                    break
                 else:
                     g = gcd(g,nums[j])
                 if g == k:
