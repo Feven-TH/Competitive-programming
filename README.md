@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Feven-TH/Competitive-programming/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Feven-TH/Competitive-programming/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Feven-TH/Competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0720-longest-word-in-dictionary](https://github.com/Feven-TH/Competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Feven-TH/Competitive-programming/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Feven-TH/Competitive-programming/tree/master/0735-asteroid-collision) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Feven-TH/Competitive-programming/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Feven-TH/Competitive-programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
+| [0720-longest-word-in-dictionary](https://github.com/Feven-TH/Competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/Feven-TH/Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Feven-TH/Competitive-programming/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0658-find-k-closest-elements) |
+| [0720-longest-word-in-dictionary](https://github.com/Feven-TH/Competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Feven-TH/Competitive-programming/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0415-add-strings) |
 | [0514-freedom-trail](https://github.com/Feven-TH/Competitive-programming/tree/master/0514-freedom-trail) |
+| [0720-longest-word-in-dictionary](https://github.com/Feven-TH/Competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/Feven-TH/Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Feven-TH/Competitive-programming/tree/master/0800-letter-case-permutation) |
@@ -1085,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Feven-TH/Competitive-programming/tree/master/0139-word-break) |
+| [0720-longest-word-in-dictionary](https://github.com/Feven-TH/Competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 ## Combinatorics
 |  |
 | ------- |
