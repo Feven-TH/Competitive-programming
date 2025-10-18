@@ -3,7 +3,7 @@ class Solution:
         res = 0
         for i in range(len(nums)):
             g = 0
-            for j in range(i,len(nums)):
+            for j in range(i, len(nums)):
                 if g == 0:
                     g = nums[j]
                 elif nums[j] < k:
