@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
 | [1217-relative-sort-array](https://github.com/Feven-TH/Competitive-programming/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Feven-TH/Competitive-programming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1325-path-with-maximum-probability](https://github.com/Feven-TH/Competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Feven-TH/Competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Feven-TH/Competitive-programming/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Feven-TH/Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Feven-TH/Competitive-programming/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Feven-TH/Competitive-programming/tree/master/1184-car-pooling) |
+| [1325-path-with-maximum-probability](https://github.com/Feven-TH/Competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Feven-TH/Competitive-programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Feven-TH/Competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/Feven-TH/Competitive-programming/tree/master/1762-furthest-building-you-can-reach) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Feven-TH/Competitive-programming/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Feven-TH/Competitive-programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Feven-TH/Competitive-programming/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1325-path-with-maximum-probability](https://github.com/Feven-TH/Competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Feven-TH/Competitive-programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Feven-TH/Competitive-programming/tree/master/1558-course-schedule-iv) |
 | [1696-strange-printer-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/1696-strange-printer-ii) |
@@ -1047,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Feven-TH/Competitive-programming/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Feven-TH/Competitive-programming/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/Feven-TH/Competitive-programming/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
