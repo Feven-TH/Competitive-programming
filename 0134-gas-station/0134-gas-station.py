@@ -1,16 +1,13 @@
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
-        tank = 0
-        start_index = 0
-        total_gas = 0
-        total_cost = 0
-
+        if sum(gas) < sum(cost):
+            return -1
+        start = 0 
+        curr = 0 
         for i in range(len(gas)):
-            total_gas += gas[i]
-            total_cost += cost[i]
-            tank += gas[i] - cost[i]
-            if tank < 0:
-                tank = 0
-                start_index = i+1
-
-        return -1 if total_gas < total_cost else start_index
+            net = gas[i] - cost[i]
+            curr += net
+            if curr < 0:
+                start = i +1
+                curr = 0
+        return start 
