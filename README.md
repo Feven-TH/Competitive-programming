@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Feven-TH/Competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Feven-TH/Competitive-programming/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Feven-TH/Competitive-programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Feven-TH/Competitive-programming/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Feven-TH/Competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Feven-TH/Competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Feven-TH/Competitive-programming/tree/master/2429-design-a-food-rating-system) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/Feven-TH/Competitive-programming/tree/master/1970-sorting-the-sentence) |
 | [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Feven-TH/Competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/Feven-TH/Competitive-programming/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Feven-TH/Competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1696-strange-printer-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/1696-strange-printer-ii) |
 | [1876-map-of-highest-peak](https://github.com/Feven-TH/Competitive-programming/tree/master/1876-map-of-highest-peak) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Feven-TH/Competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Feven-TH/Competitive-programming/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
