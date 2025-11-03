@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Feven-TH/Competitive-programming/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0658-find-k-closest-elements) |
+| [0768-partition-labels](https://github.com/Feven-TH/Competitive-programming/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Feven-TH/Competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/Feven-TH/Competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/Feven-TH/Competitive-programming/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Feven-TH/Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0869-similar-string-groups](https://github.com/Feven-TH/Competitive-programming/tree/master/0869-similar-string-groups) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Feven-TH/Competitive-programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Feven-TH/Competitive-programming/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Feven-TH/Competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0768-partition-labels](https://github.com/Feven-TH/Competitive-programming/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Feven-TH/Competitive-programming/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Feven-TH/Competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/Feven-TH/Competitive-programming/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Feven-TH/Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Feven-TH/Competitive-programming/tree/master/0800-letter-case-permutation) |
 | [0869-similar-string-groups](https://github.com/Feven-TH/Competitive-programming/tree/master/0869-similar-string-groups) |
