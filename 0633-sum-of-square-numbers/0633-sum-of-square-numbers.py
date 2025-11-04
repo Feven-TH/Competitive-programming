@@ -1,10 +1,15 @@
-import math
 class Solution:
     def judgeSquareSum(self, c: int) -> bool:
-        for a in range(int(math.sqrt(c)) + 1):
-            b = math.isqrt(c - a*a)
-            if a*a + b*b == c:
+        l,r = 0, int(c**0.5)+1
+        while l <=r:
+            curr = l**2 + r**2
+            if curr == c:
                 return True
+            elif curr >c:
+                r -= 1
+            else:
+                l += 1
         return False
+                
             
-        
+
