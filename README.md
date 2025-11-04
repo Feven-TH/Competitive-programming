@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Feven-TH/Competitive-programming/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
+| [0917-boats-to-save-people](https://github.com/Feven-TH/Competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Feven-TH/Competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Feven-TH/Competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/Feven-TH/Competitive-programming/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/Feven-TH/Competitive-programming/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Feven-TH/Competitive-programming/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Feven-TH/Competitive-programming/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Feven-TH/Competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Feven-TH/Competitive-programming/tree/master/0943-sum-of-subarray-minimums) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/Feven-TH/Competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
+| [0917-boats-to-save-people](https://github.com/Feven-TH/Competitive-programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0948-sort-an-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Feven-TH/Competitive-programming/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/Feven-TH/Competitive-programming/tree/master/1014-k-closest-points-to-origin) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Feven-TH/Competitive-programming/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Feven-TH/Competitive-programming/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Feven-TH/Competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Feven-TH/Competitive-programming/tree/master/1033-broken-calculator) |
 | [1095-two-city-scheduling](https://github.com/Feven-TH/Competitive-programming/tree/master/1095-two-city-scheduling) |
