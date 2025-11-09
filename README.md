@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2187-vowels-of-all-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2187-vowels-of-all-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Feven-TH/Competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/2288-count-operations-to-obtain-zero) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Feven-TH/Competitive-programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Feven-TH/Competitive-programming/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Feven-TH/Competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
