@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0328-odd-even-linked-list) |
+| [0838-design-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Feven-TH/Competitive-programming/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/0295-find-median-from-data-stream) |
 | [0677-map-sum-pairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0838-design-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/Feven-TH/Competitive-programming/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/Feven-TH/Competitive-programming/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
