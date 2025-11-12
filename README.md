@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Feven-TH/Competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0328-odd-even-linked-list) |
 | [0859-design-circular-deque](https://github.com/Feven-TH/Competitive-programming/tree/master/0859-design-circular-deque) |
 | [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Feven-TH/Competitive-programming/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Feven-TH/Competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Feven-TH/Competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Feven-TH/Competitive-programming/tree/master/0342-power-of-four) |
