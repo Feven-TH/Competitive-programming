@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Feven-TH/Competitive-programming/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0234-palindrome-linked-list) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Feven-TH/Competitive-programming/tree/master/0011-container-with-most-water) |
+| [0086-partition-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0234-palindrome-linked-list) |
