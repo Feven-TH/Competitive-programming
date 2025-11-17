@@ -1,15 +1,14 @@
 class Solution:
     def minMoves(self, target: int, maxDoubles: int) -> int:
-        moves = 0
-        while target > 1:
-            if maxDoubles == 0:
-                moves += target - 1
-                return moves
-            if target%2 == 0 and maxDoubles > 0:
-                target = target // 2
-                moves += 1
+        res = 0
+        while target > 1 and  maxDoubles > 0 :
+            if target % 2 == 0:
+                res +=1
                 maxDoubles -= 1
+                target //= 2
             else:
+                res +=1
                 target -= 1
-                moves += 1
-        return moves
+        res += (target -1)
+        return res
+
