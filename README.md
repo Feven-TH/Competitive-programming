@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Feven-TH/Competitive-programming/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Feven-TH/Competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Feven-TH/Competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Feven-TH/Competitive-programming/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Feven-TH/Competitive-programming/tree/master/2429-design-a-food-rating-system) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Feven-TH/Competitive-programming/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Feven-TH/Competitive-programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Feven-TH/Competitive-programming/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/Feven-TH/Competitive-programming/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Feven-TH/Competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/Feven-TH/Competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/Feven-TH/Competitive-programming/tree/master/1962-single-threaded-cpu) |
 | [1970-sorting-the-sentence](https://github.com/Feven-TH/Competitive-programming/tree/master/1970-sorting-the-sentence) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Feven-TH/Competitive-programming/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2689-rearranging-fruits](https://github.com/Feven-TH/Competitive-programming/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2887-sort-vowels-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Feven-TH/Competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Feven-TH/Competitive-programming/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
