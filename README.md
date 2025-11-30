@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Feven-TH/Competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/Feven-TH/Competitive-programming/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
+| [1590-make-sum-divisible-by-p](https://github.com/Feven-TH/Competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Feven-TH/Competitive-programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Feven-TH/Competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Feven-TH/Competitive-programming/tree/master/1675-magnetic-force-between-two-balls) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Feven-TH/Competitive-programming/tree/master/1464-reduce-array-size-to-the-half) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Feven-TH/Competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1590-make-sum-divisible-by-p](https://github.com/Feven-TH/Competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Feven-TH/Competitive-programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Feven-TH/Competitive-programming/tree/master/1813-maximum-erasure-value) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Feven-TH/Competitive-programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Feven-TH/Competitive-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1590-make-sum-divisible-by-p](https://github.com/Feven-TH/Competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Feven-TH/Competitive-programming/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
