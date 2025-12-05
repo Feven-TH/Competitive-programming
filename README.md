@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/Feven-TH/Competitive-programming/tree/master/3055-maximum-odd-binary-number) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Feven-TH/Competitive-programming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Feven-TH/Competitive-programming/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Feven-TH/Competitive-programming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Feven-TH/Competitive-programming/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Feven-TH/Competitive-programming/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Feven-TH/Competitive-programming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 ## Design
