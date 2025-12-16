@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3606-coupon-code-validator](https://github.com/Feven-TH/Competitive-programming/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2187-vowels-of-all-substrings) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Feven-TH/Competitive-programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Feven-TH/Competitive-programming/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Feven-TH/Competitive-programming/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 ## Design
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Feven-TH/Competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -724,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Feven-TH/Competitive-programming/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Feven-TH/Competitive-programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Ordered Set
 |  |
 | ------- |
@@ -737,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Feven-TH/Competitive-programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Binary Search
 |  |
 | ------- |
