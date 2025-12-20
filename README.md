@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Feven-TH/Competitive-programming/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/Feven-TH/Competitive-programming/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Feven-TH/Competitive-programming/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/Feven-TH/Competitive-programming/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Feven-TH/Competitive-programming/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Feven-TH/Competitive-programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Feven-TH/Competitive-programming/tree/master/0869-similar-string-groups) |
 | [0874-backspace-string-compare](https://github.com/Feven-TH/Competitive-programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Feven-TH/Competitive-programming/tree/master/0886-score-of-parentheses) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Feven-TH/Competitive-programming/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Feven-TH/Competitive-programming/tree/master/1006-vowel-spellchecker) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Feven-TH/Competitive-programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Feven-TH/Competitive-programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
