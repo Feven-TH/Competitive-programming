@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Feven-TH/Competitive-programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Feven-TH/Competitive-programming/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Feven-TH/Competitive-programming/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Stack
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2678-number-of-senior-citizens](https://github.com/Feven-TH/Competitive-programming/tree/master/2678-number-of-senior-citizens) |
 | [2689-rearranging-fruits](https://github.com/Feven-TH/Competitive-programming/tree/master/2689-rearranging-fruits) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Feven-TH/Competitive-programming/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Feven-TH/Competitive-programming/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2187-vowels-of-all-substrings) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Feven-TH/Competitive-programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Feven-TH/Competitive-programming/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Hash Table
 |  |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2689-rearranging-fruits](https://github.com/Feven-TH/Competitive-programming/tree/master/2689-rearranging-fruits) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Feven-TH/Competitive-programming/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3606-coupon-code-validator](https://github.com/Feven-TH/Competitive-programming/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Feven-TH/Competitive-programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Feven-TH/Competitive-programming/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2689-rearranging-fruits](https://github.com/Feven-TH/Competitive-programming/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2887-sort-vowels-in-a-string) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Feven-TH/Competitive-programming/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3433-count-mentions-per-user](https://github.com/Feven-TH/Competitive-programming/tree/master/3433-count-mentions-per-user) |
@@ -698,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Feven-TH/Competitive-programming/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Feven-TH/Competitive-programming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Feven-TH/Competitive-programming/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Feven-TH/Competitive-programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Queue
@@ -785,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Feven-TH/Competitive-programming/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Feven-TH/Competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Feven-TH/Competitive-programming/tree/master/2665-minimum-time-to-repair-cars) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/Feven-TH/Competitive-programming/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
