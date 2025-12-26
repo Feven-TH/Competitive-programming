@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Feven-TH/Competitive-programming/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Feven-TH/Competitive-programming/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Feven-TH/Competitive-programming/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Feven-TH/Competitive-programming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Feven-TH/Competitive-programming/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Feven-TH/Competitive-programming/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Feven-TH/Competitive-programming/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2678-number-of-senior-citizens](https://github.com/Feven-TH/Competitive-programming/tree/master/2678-number-of-senior-citizens) |
