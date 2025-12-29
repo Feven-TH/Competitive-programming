@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/Feven-TH/Competitive-programming/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/Feven-TH/Competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Feven-TH/Competitive-programming/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Feven-TH/Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Feven-TH/Competitive-programming/tree/master/0797-rabbits-in-forest) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Feven-TH/Competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Feven-TH/Competitive-programming/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Feven-TH/Competitive-programming/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Feven-TH/Competitive-programming/tree/master/0800-letter-case-permutation) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Feven-TH/Competitive-programming/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Feven-TH/Competitive-programming/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Feven-TH/Competitive-programming/tree/master/0693-binary-number-with-alternating-bits) |
+| [0756-pyramid-transition-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/Feven-TH/Competitive-programming/tree/master/0800-letter-case-permutation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Feven-TH/Competitive-programming/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Feven-TH/Competitive-programming/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/Feven-TH/Competitive-programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Feven-TH/Competitive-programming/tree/master/0131-palindrome-partitioning) |
+| [0756-pyramid-transition-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0756-pyramid-transition-matrix) |
 | [0800-letter-case-permutation](https://github.com/Feven-TH/Competitive-programming/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Feven-TH/Competitive-programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Feven-TH/Competitive-programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
