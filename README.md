@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Feven-TH/Competitive-programming/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Feven-TH/Competitive-programming/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Feven-TH/Competitive-programming/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Feven-TH/Competitive-programming/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Feven-TH/Competitive-programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Feven-TH/Competitive-programming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0070-climbing-stairs) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Feven-TH/Competitive-programming/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Feven-TH/Competitive-programming/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Feven-TH/Competitive-programming/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Feven-TH/Competitive-programming/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Feven-TH/Competitive-programming/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Feven-TH/Competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
