@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Feven-TH/Competitive-programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1307-ugly-number-iii](https://github.com/Feven-TH/Competitive-programming/tree/master/1307-ugly-number-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Feven-TH/Competitive-programming/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Feven-TH/Competitive-programming/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Feven-TH/Competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Feven-TH/Competitive-programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Feven-TH/Competitive-programming/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Feven-TH/Competitive-programming/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/1435-xor-queries-of-a-subarray) |
