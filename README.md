@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Feven-TH/Competitive-programming/tree/master/0514-freedom-trail) |
 | [0518-coin-change-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0542-01-matrix) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Feven-TH/Competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0747-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Feven-TH/Competitive-programming/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0514-freedom-trail](https://github.com/Feven-TH/Competitive-programming/tree/master/0514-freedom-trail) |
 | [0648-replace-words](https://github.com/Feven-TH/Competitive-programming/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/Feven-TH/Competitive-programming/tree/master/0677-map-sum-pairs) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Feven-TH/Competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Feven-TH/Competitive-programming/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/Feven-TH/Competitive-programming/tree/master/0756-pyramid-transition-matrix) |
