@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Feven-TH/Competitive-programming/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Feven-TH/Competitive-programming/tree/master/3433-count-mentions-per-user) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/2470-removing-stars-from-a-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3433-count-mentions-per-user](https://github.com/Feven-TH/Competitive-programming/tree/master/3433-count-mentions-per-user) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3396-valid-word](https://github.com/Feven-TH/Competitive-programming/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Feven-TH/Competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Feven-TH/Competitive-programming/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/Feven-TH/Competitive-programming/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Feven-TH/Competitive-programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1255,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Feven-TH/Competitive-programming/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1296,4 +1300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2187-vowels-of-all-substrings) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Feven-TH/Competitive-programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3201-distribute-candies-among-children-ii) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
