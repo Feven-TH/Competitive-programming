@@ -10,8 +10,6 @@ class Solution:
                     ans.append(".".join(path))
                 return
 
-
-
             for end in range(start, len(s)):
                 cur_slice = s[start:end+1]
                 if len(cur_slice) > 1 and cur_slice[0] == "0":
