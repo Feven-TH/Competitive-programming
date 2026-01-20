@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Feven-TH/Competitive-programming/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Feven-TH/Competitive-programming/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Feven-TH/Competitive-programming/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Feven-TH/Competitive-programming/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Feven-TH/Competitive-programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Feven-TH/Competitive-programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Feven-TH/Competitive-programming/tree/master/3676-smallest-number-with-all-set-bits) |
