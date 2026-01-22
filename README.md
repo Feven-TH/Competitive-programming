@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Feven-TH/Competitive-programming/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Feven-TH/Competitive-programming/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/Feven-TH/Competitive-programming/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Feven-TH/Competitive-programming/tree/master/0234-palindrome-linked-list) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Feven-TH/Competitive-programming/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/Feven-TH/Competitive-programming/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/Feven-TH/Competitive-programming/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Feven-TH/Competitive-programming/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Feven-TH/Competitive-programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Feven-TH/Competitive-programming/tree/master/0242-valid-anagram) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Feven-TH/Competitive-programming/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Feven-TH/Competitive-programming/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Feven-TH/Competitive-programming/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Feven-TH/Competitive-programming/tree/master/0225-implement-stack-using-queues) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Feven-TH/Competitive-programming/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/Feven-TH/Competitive-programming/tree/master/1582-design-browser-history) |
 ## Greedy
 |  |
