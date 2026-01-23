@@ -3,7 +3,7 @@ class Solution:
         i = 0
         res = ""
         while len(s) > 2 and i < len(s)-1:
-            res += str((int(s[i]) + int(s[i + 1])) % 10)
+            res += str((int(s[i]) + int(s[i + 1])) %10)
             i += 1
             if i == len(s) - 1:
                 s = res
