@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Feven-TH/Competitive-programming/tree/master/2054-two-best-non-overlapping-events) |
 | [2429-design-a-food-rating-system](https://github.com/Feven-TH/Competitive-programming/tree/master/2429-design-a-food-rating-system) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Feven-TH/Competitive-programming/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Simulation
 |  |
@@ -1237,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Feven-TH/Competitive-programming/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Feven-TH/Competitive-programming/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Feven-TH/Competitive-programming/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Feven-TH/Competitive-programming/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1315,4 +1317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Feven-TH/Competitive-programming/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3201-distribute-candies-among-children-ii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Feven-TH/Competitive-programming/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
