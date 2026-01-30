@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Feven-TH/Competitive-programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Feven-TH/Competitive-programming/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Feven-TH/Competitive-programming/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1895-largest-magic-square](https://github.com/Feven-TH/Competitive-programming/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Feven-TH/Competitive-programming/tree/master/1917-maximum-average-pass-ratio) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Feven-TH/Competitive-programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/Feven-TH/Competitive-programming/tree/master/1962-single-threaded-cpu) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Feven-TH/Competitive-programming/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/Feven-TH/Competitive-programming/tree/master/1590-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1895-largest-magic-square](https://github.com/Feven-TH/Competitive-programming/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Feven-TH/Competitive-programming/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2044-number-of-wonderful-substrings](https://github.com/Feven-TH/Competitive-programming/tree/master/2044-number-of-wonderful-substrings) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Feven-TH/Competitive-programming/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1134,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Feven-TH/Competitive-programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1696-strange-printer-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/1696-strange-printer-ii) |
 | [1876-map-of-highest-peak](https://github.com/Feven-TH/Competitive-programming/tree/master/1876-map-of-highest-peak) |
+| [1895-largest-magic-square](https://github.com/Feven-TH/Competitive-programming/tree/master/1895-largest-magic-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Feven-TH/Competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Feven-TH/Competitive-programming/tree/master/3748-sort-matrix-by-diagonals) |
