@@ -7,7 +7,7 @@ class Solution:
             if not flag:
                 if ch > target:
                     res = ch
-                    flag = not flag
+                    flag = True
             else:
                 if ch > target and ch < res:
                     res = ch
