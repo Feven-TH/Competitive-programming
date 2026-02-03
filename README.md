@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Feven-TH/Competitive-programming/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3623-count-number-of-trapezoids-i) |
+| [3637-trionic-array-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Feven-TH/Competitive-programming/tree/master/3748-sort-matrix-by-diagonals) |
