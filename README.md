@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3719-longest-balanced-subarray-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Feven-TH/Competitive-programming/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Feven-TH/Competitive-programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3606-coupon-code-validator](https://github.com/Feven-TH/Competitive-programming/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3623-count-number-of-trapezoids-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Feven-TH/Competitive-programming/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Feven-TH/Competitive-programming/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Feven-TH/Competitive-programming/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3643-zero-array-transformation-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3719-longest-balanced-subarray-i) |
 ## Design
 |  |
 | ------- |
@@ -1129,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1772-create-sorted-array-through-instructions](https://github.com/Feven-TH/Competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Feven-TH/Competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3719-longest-balanced-subarray-i) |
 ## Interactive
 |  |
 | ------- |
@@ -1201,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1772-create-sorted-array-through-instructions](https://github.com/Feven-TH/Competitive-programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Feven-TH/Competitive-programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [3719-longest-balanced-subarray-i](https://github.com/Feven-TH/Competitive-programming/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Feven-TH/Competitive-programming/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
 |  |
