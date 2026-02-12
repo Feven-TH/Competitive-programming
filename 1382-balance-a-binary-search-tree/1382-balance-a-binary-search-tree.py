@@ -21,5 +21,6 @@ class Solution:
             return root
         
         ordered = inorder(root)
+        # print("ordered", ordered)
         return balance(ordered)
         
